@@ -8,9 +8,7 @@ O projeto segue boas práticas de desenvolvimento e está hospedado na Vercel pa
   
 ## 🚀 Tecnologias Utilizadas
 
-- :contentReference[oaicite:9]{index=9}
-- :contentReference[oaicite:12]{index=12}
-- :contentReference[oaicite:15]{index=15}:contentReference[oaicite:17]{index=17}
+Html, CSS3, Javascript, Utilizei tambem a biblioteca Da Swiper no carrossel
 
 
 
