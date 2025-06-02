@@ -4,7 +4,7 @@ Landing page responsiva desenvolvida com HTML e CSS, destacando a criatividade e
 O projeto segue boas práticas de desenvolvimento e está hospedado na Vercel para fácil acesso e compartilhamento.:contentReference[oaicite:2]{index=2}
 
 ## 🔗 Acesse o Projeto
-- **Live Preview:** https://seu-projeto.vercel.app)](https://projeto-landing-page-design.vercel.app/
+- **Live Preview:**(https://projeto-landing-page-design.vercel.app/
   
 ## 🚀 Tecnologias Utilizadas
 
