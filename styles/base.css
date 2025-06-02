@@ -72,3 +72,8 @@ body{
     font-family: var(--font-primary);
     color: var(--preto);
 }
+
+html{
+	scroll-padding-top: 20px;
+	  scroll-behavior: smooth;
+}
